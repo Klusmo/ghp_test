@@ -21,11 +21,12 @@ function App() {
           Contando {count} cliques
         </button>
         <p>
-          Edit <code>src/App.tsx</code> and save to test HMR
+          Edite <code>src/App.tsx</code> e salve para testar HMR
         </p>
       </div>
       <p className="read-the-docs">
         Clique no logo do Vite e do React para aprender mais.
+        lalalal
       </p>
     </div>
   )
