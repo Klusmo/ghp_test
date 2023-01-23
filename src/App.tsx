@@ -22,7 +22,7 @@ function App() {
           Contando {count} cliques
         </button>
         <p>
-          Edite <code>src/App.tsx</code> e salve para testar HMR
+          Edite <code>src/App.tsx</code> e salve para testar HMR!
         </p>
       </div>
       <p className="read-the-docs">
